@@ -1,0 +1,11 @@
+# Core
+flask==2.3.3
+llama-cpp-python==0.2.26
+pyodbc==5.0.1
+waitress==2.1.2
+
+# Utilities
+python-dotenv==1.0.0
+
+# For downloading models (optional)
+huggingface-hub==0.19.4

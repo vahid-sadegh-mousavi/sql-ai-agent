@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+chat_with_data/
+
+# Model files (large)
+models/*.gguf
+models/*.bin
+!models/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+query_logs.json
+logs/
+
+# Config with sensitive data
+config.json
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database
+*.mdf
+*.ldf
+
+# Downloads
+downloads/
+*.zip
+*.tar.gz
