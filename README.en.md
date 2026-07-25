@@ -75,8 +75,7 @@ This project is an **AI Agent** that uses **Large Language Models (LLM)** and **
 ### AI Models
 | Model | Purpose |
 |-------|---------|
-| **Qwen-14B-Instruct** | Persian understanding, NER, translation |
-| **SQLCoder-7B** | T-SQL query generation |
+| **Qwen-14B-Instruct** | 
 
 ### Specialized Libraries
 | Library | Purpose |
@@ -99,7 +98,7 @@ pip install -r requirements.txt
 # Place in models/ folder
 
 ### Required Files
-Download models from HuggingFace:
+Download model from HuggingFace:
 
 Ophiuchi-Qwen3-14B-Instruct
 
